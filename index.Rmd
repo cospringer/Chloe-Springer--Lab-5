@@ -4,5 +4,9 @@ output: html_document
 date: "2024-02-27"
 ---
 
-My home page
+My Home Page:
+
+Chloe Springer
+![pic](images/pic.jpeg)
+
 
